@@ -10,6 +10,7 @@ body {
 
 .active a {
   color: #399bd1 !important;
+  background-color: inherit !important;
 }
 
 /*  Jumbotron */
@@ -237,7 +238,7 @@ body {
 
 .projects {
   width: 100%;
-  height: 30rem;
+  height: 35rem;
   display: block;
 }
 
