@@ -6,14 +6,14 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-/* Header */
+/* ---------Header------------ */
 
 .active a {
   color: #399bd1 !important;
   background-color: inherit !important;
 }
 
-/*  Jumbotron */
+/*  ---------Jumbotron--------- */
 
 .jumbotron {
   height: 44rem;
@@ -84,7 +84,7 @@ body {
  }
 }
 
-/* Featured project */
+/* --------Featured project--------- */
 
 .featured-project {
   display: block;
@@ -231,10 +231,9 @@ body {
   .product-categories h4 {
     color: #399bd1;
   }
-
 }
 
-/* Projects */
+/* ----------Projects---------- */
 
 .projects {
   width: 100%;
@@ -343,7 +342,7 @@ body {
 }
 
 
-/* footer */
+/* --------footer--------- */
 
 footer {
   display: block;
